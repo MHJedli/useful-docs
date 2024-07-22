@@ -1,0 +1,24 @@
+VSCODE dart/flutter extensions :
+----------------------------------------
+Dart 
+Dart-import 
+
+Flutter 
+Flutter Snippets 
+Awesome Flutter Snippets 
+Error Lens 
+Bloc 
+Cubit 
+
+Android Ios emulator 
+
+Git & Github Extension pack
+Git EXtension pack
+Git Merger 
+Git Patch 
+Git Project Manager
+
+
+Gradle for java
+Material icon theme
+-------------------------------------------

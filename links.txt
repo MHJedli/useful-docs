@@ -1,0 +1,53 @@
+Some useful links :
+************************ Development **********************************
+- Angular installation on Ubuntu 22.04 : 
+https://tecadmin.net/how-to-install-angular-cli-on-ubuntu-22-04/
+
+- Android Studio for Ubuntu (.deb file) :
+https://www.educative.io/answers/how-to-install-android-studio-in-ubuntu
+***********************************************************************
+
+************************ AI *******************************************
+- Pytorch with NVIDIA+CUDA on Ubuntu 22.04 (pip) :
+https://www.youtube.com/watch?v=c0Z_ItwzT5o
+
+- Conda Setup for Ubuntu :
+https://thesecmaster.com/blog/step-by-step-guide-to-install-conda-on-ubuntu-linux
+
+- TensorFlow with CPU/GPU for ubuntu 22.04 :
+https://www.cherryservers.com/blog/install-tensorflow-ubuntu
+***********************************************************************
+
+************** Tweaks for Ubuntu or Linux in General ******************
+- Fix Wayland seesion not appearing with NVIDIA : 
+https://forum.manjaro.org/t/howto-use-wayland-with-proprietary-nvidia-drivers/36130
+
+- Install NVIDIA on Ubuntu : 
+https://www.linuxcapable.com/install-nvidia-drivers-on-ubuntu-linux/
+
+- NVIDIA on arch linux : 
+https://github.com/korvahannu/arch-nvidia-drivers-installation-guide
+
+- REALTEK RTL8852AE Wi-Fi for Ubuntu : 
+https://devicetests.com/install-realtek-rtl8852ae-wifi-card-drivers-ubuntu
+
+- Add MacOS as a boot entry in GRUB : 
+https://github.com/SayantanRC/URLs/issues/2
+
+- Move /home to another partition in ubuntu :
+https://www.maketecheasier.com/move-home-folder-ubuntu/
+
+- Setting up dotfiles :
+https://victoria.dev/blog/how-to-set-up-a-fresh-ubuntu-desktop-using-only-dotfiles-and-bash-scripts/
+
+- Back Up The Gnome Shell Desktop Settings On Linux :
+https://www.addictivetips.com/ubuntu-linux-tips/back-up-the-gnome-shell-desktop-settings-linux/
+
+- Pipewire for Ubuntu 22.04 :
+https://gist.github.com/the-spyke/2de98b22ff4f978ebf0650c90e82027e
+
+- EnvyControl (NVIDIA optimus control) :
+https://github.com/bayasdev/envycontrol?tab=readme-ov-file
+
+***********************************************************************
+
