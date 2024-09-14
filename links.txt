@@ -49,5 +49,8 @@ https://gist.github.com/the-spyke/2de98b22ff4f978ebf0650c90e82027e
 - EnvyControl (NVIDIA optimus control) :
 https://github.com/bayasdev/envycontrol?tab=readme-ov-file
 
+- Keyboard RGB backlight fix (Gigabyte) : 
+https://novacustom.com/clevo-keyboard-backlight-control-for-linux/
+
 ***********************************************************************
 
