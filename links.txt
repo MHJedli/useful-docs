@@ -52,5 +52,8 @@ https://github.com/bayasdev/envycontrol?tab=readme-ov-file
 - Keyboard RGB backlight fix (Gigabyte) : 
 https://novacustom.com/clevo-keyboard-backlight-control-for-linux/
 
+- Grub Themes :
+https://github.com/jacksaur/Gorgeous-GRUB?tab=readme-ov-file
+
 ***********************************************************************
 
